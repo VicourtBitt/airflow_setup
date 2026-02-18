@@ -1,0 +1,17 @@
+apache-airflow-providers-http
+apache-airflow-providers-amazon
+pandas
+numpy
+psycopg2-binary==2.9.11
+requests
+lxml
+minio
+boto3
+pillow
+pyarrow
+tables
+weasyprint
+wkhtmltopdf
+matplotlib
+Pillow
+pypdf
